@@ -74611,5 +74611,12 @@
     "author": "suicunespurr",
     "description": "Track a novel's word count goal with a live dashboard of daily progress, streaks, and projected finish date. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "morganherg/novel-goal-tracker"
+  },
+  {
+    "id": "vault-digest",
+    "name": "Vault Digest",
+    "author": "Deke Li",
+    "description": "Sync your vault to GitHub with a clean linear history: rebase instead of merge commits, a lock against overlapping syncs, and commit messages that summarise your notes.",
+    "repo": "kubeli-lab/vault-digest"
   }
 ]
